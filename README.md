@@ -1,0 +1,1 @@
+#Note to do full stack application build with MERN
